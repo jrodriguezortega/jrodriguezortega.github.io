@@ -1,137 +1,185 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "José Rodríguez Ortega",
+    "label": "Research Engineer, PhD in Data Learning",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "e.jrodriguez98@go.ugr.es",
+    // "phone": "(912) 123-4567",
+    "url": "https://jrodriguezortega.github.io/",
+    "summary": "PhD in Artificial Intelligence",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Málaga, Spain",
+      "postalCode": "29010",
+      "city": "Málaga",
+      "countryCode": "ES",
+      "region": "Andalusia"
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "jrodriguezortega",
+        "url": "https://www.linkedin.com/in/jose-rodr%C3%ADguez-ortega/"
+      },
+      {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "RodOrtJose",
+        "url": "https://twitter.com/RodOrtJose"
+      },
+      {
+        "network": "GitHub",
+        "username": "jrodriguezortega",
+        "url": "https://github.com/jrodriguezortega"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Software Nemotec",
+      "position": "Research Engineer",
+      "url": "https://nemostudio.nemotec.com/en/",
+      "startDate": "2024-02-04",
+      // "endDate": "2025-01-01",
+      "summary": "Research Engineer at Software Nemotec, where I try to bridge the gap between research and industry in the field of Deep Learning in orthodontics.",
+      "highlights": ["Computer Vision", "3D Deep Learning"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "LifeWatch-ERIC",
+      "position": "Data Science and Artificial Intelligence Assistant", 
+      "url": "https://www.lifewatch.eu/organisation-governance/spain/",
+      "startDate": "2022-05-16",
+      "endDate": "2023-11-31",
+      "summary": "Data Science and Artificial Intelligence Assistant at LifeWatch-ERIC, where I work on the development of Deep Learning models for remote sensing data analysis.",
+      "highlights": ["Remote Sensing", "Deep Learning"]
     }
   ],
+  // "volunteer": [
+  //   {
+  //     "organization": "People's Climate March",
+  //     "location": "Zurich, Switzerland",
+  //     "position": "Lead Organizer",
+  //     "url": "https://example.com",
+  //     "startDate": "2014-04-01",
+  //     "endDate": "2015-07-01",
+  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //   }
+  // ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Granada, Granada, Spain",
+      "location": "Granada, Spain",
+      "url": "https://www.ugr.es/",
+      "area": "Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-05-01",
+      "endDate": "2025-11-01",
+      "score": "Summa Cum Laude"
+      // "courses": ["Land Use and Land Cover Fraction Estimation for Sentinel-2 RGB Images: A New LULC Mapping Task"]
+    },
+    {
+      "institution": "University of Granada, Granada, Spain",
+      "location": "Granada, Spain",
+      "url": "https://www.ugr.es/",
+      "area": "Data Science and Engineering",
+      "studyType": "Master's Degree",
+      "startDate": "2020-10-01",
+      "endDate": "2022-01-01",
+      "score": "9/10"
+      // "courses": ["Land Use and Land Cover Fraction Estimation for Sentinel-2 RGB Images: A New LULC Mapping Task"]
+    },
+    {
+      "institution": "University of Granada, Granada, Spain",
+      "location": "Granada, Spain",
+      "url": "https://www.ugr.es/",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2016-10-01",
+      "endDate": "2020-07-01",
+      "score": "8/10"
+      // "courses": ["Land Use and Land Cover Fraction Estimation for Sentinel-2 RGB Images: A New LULC Mapping Task"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "Nobel Prize in Physics",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
+  // "certificates": [
+  //   {
+  //     "name": "Machine Learning",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-location-dot"
+  //   },
+  //   {
+  //     "name": "Quantum Computing",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-tag"
+  //   },
+  //   {
+  //     "name": "Quantum Information",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-envelope"
+  //   },
+  //   {
+  //     "name": "Quantum Cryptography",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-hashtag"
+  //   },
+  //   {
+  //     "name": "Quantum Communication",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-calendar"
+  //   },
+  //   {
+  //     "name": "Quantum Teleportation",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-clipboard-check"
+  //   }
+  // ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-09-01",
+      "url": "https://arxiv.org/abs/2501.13073",
+      "summary": "Introduced CHaRNet, the first fully end-to-end deep learning framework for anatomical landmark detection in 3D dental models. CHaRNet operates directly on point clouds, bypassing tooth segmentation, and uses a novel Conditioned Heatmap Regression module to robustly handle missing teeth, achieving high accuracy and streamlining orthodontic workflows."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Land use and land cover fraction estimation for Sentinel-2 RGB images: A new LULC mapping task",
+      "publisher": "Remote Sensing Applications: Society and Environment",
+      "releaseDate": "2025-05-01",
+      "url": "https://www.sciencedirect.com/science/article/pii/S235293852500179X",
+      "summary": "Proposed a novel LULC fraction estimation task for public Sentinel-2 RGB images, predicting both the presence and fractional abundance of LULC classes. We introduced Land-1.0, the first open-source dataset of its kind, and developed multitask deep learning models that offer a scalable, cost-effective solution for environmental monitoring."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Bidirectional recurrent imputation and abundance estimation of LULC classes with MODIS multispectral time series and geo-topographic and climatic data",
+      "publisher": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "releaseDate": "2024-01-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10416323",
+      "summary": "We present a novel deep learning approach for spectral unmixing of MODIS multispectral time series that addresses missing data through end-to-end bidirectional LSTM models. Our method integrates spectral-temporal data with geo-topographic and climatic information to estimate LULC abundances in mixed pixels without explicit endmember extraction. We created the Andalusia MultiSpectral MultiTemporal Unmixing dataset with monthly MODIS data at 460-m resolution, demonstrating significant improvements in LULC abundance estimation."
+    },
+    {
+      "name": "CI-dataset and DetDSCI methodology for detecting too small and too large critical infrastructures in satellite images: airports and electrical substations as case study",
+      "publisher": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "releaseDate": "2021-11-18",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10416323",
+      "summary": "Proposed the CI-dataset and a novel DetDSCI methodology to detect critical infrastructures of varying scales, such as airports and electrical substations, in satellite imagery. The two-level, resolution-independent approach significantly improves detection, achieving up to a 37.53% F1 score improvement over standard models like Faster R-CNN."
     }
   ],
   "skills": [
